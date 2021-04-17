@@ -1,0 +1,10 @@
+__pycache__
+logs
+bak
+.ipynb_checkpoints
+ptmodel
+mlruns
+model
+lightning_logs
+checkpoints
+.vim
